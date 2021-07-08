@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-07-07T21:04:53.056923200Z</date>
+  <millis>1625691893056</millis>
+  <nanos>923200</nanos>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>WARNING</level>
+  <class>org.acme.Demo</class>
+  <method>LogMessage</method>
+  <thread>21</thread>
+  <message>ffffff</message>
+</record>
